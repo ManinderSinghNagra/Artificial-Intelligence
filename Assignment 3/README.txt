@@ -1,0 +1,1 @@
+THe implementation for question 1.2 is done in excel sheet. The alogorith is implemented in the document.
